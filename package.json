@@ -1,0 +1,11 @@
+{
+  "name": "ras-devops",
+  "version": "1.0.0",
+  "main": "site.html", 
+  "scripts": {
+    "start": "node site.html" 
+  },
+  "dependencies": {
+    "node": "^20.6.0"
+  }
+}
